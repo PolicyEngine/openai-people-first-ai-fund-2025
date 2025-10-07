@@ -4,7 +4,16 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This repository organizes PolicyEngine's application to OpenAI's People-First AI Fund - a $50 million initiative supporting nonprofits and community-based organizations at every stage of AI adoption.
+This repository organizes PSL Foundation's application to OpenAI's People-First AI Fund on behalf of PolicyEngine (fiscally sponsored project) - a $50 million initiative supporting nonprofits and community-based organizations at every stage of AI adoption.
+
+## Fiscal Sponsorship
+
+**Important**: PolicyEngine is fiscally sponsored by PSL Foundation. Therefore:
+- **Applicant**: PSL Foundation (the 501(c)(3) organization)
+- **Fiscally Sponsored Project**: PolicyEngine
+- **Application Focus**: PolicyEngine's work in AI-powered policy analysis
+
+The application will be submitted by PSL Foundation, with all work and funding supporting PolicyEngine's operations and mission.
 
 ## Grant Details
 

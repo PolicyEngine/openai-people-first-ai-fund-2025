@@ -2,17 +2,24 @@
 
 ## Application Information
 
-- **Organization**: PolicyEngine
+- **Applicant Organization**: PSL Foundation
+- **Fiscally Sponsored Project**: PolicyEngine
 - **Fund**: OpenAI People-First AI Fund
 - **Grant Amount**: [TO BE DETERMINED: Up to 10% of operating budget]
 - **Application Deadline**: October 8, 2025 (11:00 PM PT)
 
 ## Organization Details
 
-- **Name**: PolicyEngine
+### Fiscal Sponsor
+- **Name**: PSL Foundation
 - **Status**: 501(c)(3) nonprofit
 - **Location**: [TO BE COMPLETED: U.S. location]
 - **Operating Budget**: [TO BE COMPLETED: Must be $500K-$10M]
+
+### Fiscally Sponsored Project
+- **Name**: PolicyEngine
+- **Relationship**: Fiscally sponsored by PSL Foundation
+- **Focus**: Open-source policy analysis tools
 
 ## Primary Contact
 

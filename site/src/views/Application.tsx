@@ -10,11 +10,16 @@ function Application() {
 
       <h2>Organization Information</h2>
 
-      <h3>Basic Details</h3>
-      <p><strong>Organization Name:</strong> PolicyEngine</p>
+      <h3>Applicant Organization (Fiscal Sponsor)</h3>
+      <p><strong>Organization Name:</strong> PSL Foundation</p>
       <p><strong>501(c)(3) Status:</strong> [TO BE CONFIRMED]</p>
       <p><strong>Location:</strong> [TO BE COMPLETED]</p>
       <p><strong>Operating Budget:</strong> [TO BE COMPLETED: Must be $500K-$10M]</p>
+
+      <h3>Fiscally Sponsored Project</h3>
+      <p><strong>Project Name:</strong> PolicyEngine</p>
+      <p><strong>Relationship:</strong> Fiscally sponsored by PSL Foundation</p>
+      <p><strong>Focus:</strong> Open-source tools for policy analysis</p>
 
       <h3>Contact Information</h3>
       <p>[TO BE COMPLETED: Primary contact details]</p>

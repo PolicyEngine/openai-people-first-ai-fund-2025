@@ -4,8 +4,17 @@ function Home() {
       <h1>OpenAI People-First AI Fund Application</h1>
 
       <p>
-        PolicyEngine's application to OpenAI's People-First AI Fund.
+        PSL Foundation's application to OpenAI's People-First AI Fund on behalf of
+        PolicyEngine (fiscally sponsored project).
       </p>
+
+      <div className="info-card" style={{ marginBottom: '2rem' }}>
+        <h3>Fiscal Sponsorship</h3>
+        <p>
+          <strong>Applicant:</strong> PSL Foundation (501(c)(3))<br/>
+          <strong>Fiscally Sponsored Project:</strong> PolicyEngine
+        </p>
+      </div>
 
       <div className="grant-info-grid">
         <div className="info-card">

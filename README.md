@@ -1,6 +1,6 @@
 # OpenAI People-First AI Fund Application
 
-PolicyEngine's application to OpenAI's People-First AI Fund.
+PSL Foundation's application to OpenAI's People-First AI Fund on behalf of PolicyEngine (fiscally sponsored project).
 
 ## Grant Overview
 
@@ -34,6 +34,13 @@ The fund supports nonprofits and community-based organizations at every stage of
 - No applications from programs/centers/departments within larger institutions
 - Only one application per organization
 - Must be completed in full via application portal
+
+## Fiscal Sponsorship
+
+**Applicant**: PSL Foundation (501(c)(3) fiscal sponsor)
+**Fiscally Sponsored Project**: PolicyEngine
+
+Since PolicyEngine is fiscally sponsored by PSL Foundation, PSL Foundation will be the legal applicant for this grant, with all work and funding supporting PolicyEngine's mission and operations.
 
 ## Grant Details
 
