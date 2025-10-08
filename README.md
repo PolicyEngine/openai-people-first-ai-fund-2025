@@ -40,7 +40,7 @@ The fund supports nonprofits and community-based organizations at every stage of
 **Applicant**: PSL Foundation (501(c)(3))
 **Primary Project**: PolicyEngine (fiscally sponsored)
 
-PSL Foundation will apply for this grant with PolicyEngine as its primary project. PolicyEngine is PSL Foundation's flagship initiative, using AI-powered microsimulation tools to democratize policy analysis and make complex tax-benefit calculations accessible to policymakers, researchers, and the public.
+PSL Foundation will apply for this grant with PolicyEngine as its primary project. PolicyEngine is PSL Foundation's flagship initiative, providing deterministic microsimulation tools for benefit and tax calculations, and using AI to democratize policy analysis and make complex calculations accessible to policymakers, researchers, and the public.
 
 ## Grant Details
 

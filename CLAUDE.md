@@ -11,7 +11,7 @@ This repository organizes PSL Foundation's application to OpenAI's People-First 
 **Important**: PolicyEngine is fiscally sponsored by PSL Foundation. Therefore:
 - **Applicant**: PSL Foundation (the 501(c)(3) organization)
 - **Fiscally Sponsored Project**: PolicyEngine
-- **Application Focus**: PolicyEngine's work in AI-powered policy analysis
+- **Application Focus**: PolicyEngine's work using AI to make policy analysis accessible
 
 The application will be submitted by PSL Foundation, with all work and funding supporting PolicyEngine's operations and mission.
 
