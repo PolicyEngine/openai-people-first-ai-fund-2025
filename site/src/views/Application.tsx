@@ -60,8 +60,9 @@ function Application() {
           calculations and tax policy analysis. Our API calculates eligibility and amounts for dozens of
           programs: individual tax credits federally and in all states (validated against NBER's TAXSIM
           tool via MOU to eventually replace it, and against Atlanta Fed's Policy Rules Database), plus
-          SNAP, Medicaid, CHIP, ACA subsidies, WIC, and SSI nationwide, with TANF, CCDF, LIHEAP, and other
-          state programs in deployed jurisdictions.
+          SNAP, Medicaid, CHIP, ACA subsidies, WIC, and SSI nationwide, with cash welfare, childcare subsidies,
+          energy assistance, housing vouchers, healthcare subsidies, and other state programs in deployed
+          jurisdictions.
         </p>
         <p>
           This infrastructure powers partner organizations—MyFriendBen, Benefit Navigator, Mirza, Student
@@ -96,10 +97,11 @@ function Application() {
         <p>
           PolicyEngine addresses this through AI-powered APIs providing to-the-dollar calculations across dozens
           of programs: tax credits federally and in all states (validated against NBER's TAXSIM and Atlanta Fed's
-          Policy Rules Database), plus SNAP, Medicaid, CHIP, ACA subsidies, WIC, SSI nationwide, and state-specific
-          programs like TANF and CCDF. When someone uses MyFriendBen, Benefit Navigator, or Student Basic Needs
-          Coalition, PolicyEngine's calculations—integrated directly into their workflows—help discover economic
-          supports they're entitled to.
+          Policy Rules Database), plus SNAP, Medicaid, healthcare subsidies, nutrition assistance, and disability
+          benefits nationwide, with cash welfare, childcare subsidies, energy assistance, and housing vouchers in
+          deployed states. When someone uses MyFriendBen, Benefit Navigator, or Student Basic Needs Coalition,
+          PolicyEngine's calculations—integrated directly into their workflows—help discover economic supports
+          they're entitled to.
         </p>
         <p>
           This especially matters for benefit cliffs: when earning more triggers benefit losses exceeding wage
@@ -139,9 +141,10 @@ function Application() {
         <p>
           Our comprehensive coverage distinguishes us: we calculate individual tax programs including credits
           federally and in all 50 states, validated against NBER's TAXSIM (with MOU to replace it) and Atlanta
-          Fed's Policy Rules Database. We cover SNAP, Medicaid, CHIP, ACA subsidies, WIC, and SSI nationwide,
-          plus TANF, CCDF, LIHEAP, and state supplements in deployed jurisdictions. Partners can screen clients
-          for dozens of programs simultaneously with to-the-dollar accuracy.
+          Fed's Policy Rules Database. We cover SNAP, Medicaid, healthcare subsidies, nutrition assistance, and
+          disability benefits nationwide, plus cash welfare, childcare subsidies, energy assistance, housing
+          vouchers, and state supplements in deployed jurisdictions. Partners can screen clients for dozens of
+          programs simultaneously with to-the-dollar accuracy.
         </p>
         <p>
           Beyond individual assistance, PolicyEngine serves policy analysis. When Colorado policymakers considered
