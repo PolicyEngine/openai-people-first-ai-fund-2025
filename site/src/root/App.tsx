@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route, NavLink } from 'react-router-do
 import '../styles/App.css'
 import Home from '../views/Home'
 import Application from '../views/Application'
-import Budget from '../views/Budget'
+import Documents from '../views/Documents'
 import Impact from '../views/Impact'
 import AIStrategy from '../views/AIStrategy'
 
@@ -19,8 +19,8 @@ function App() {
             <NavLink to="/application" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>
               Application
             </NavLink>
-            <NavLink to="/budget" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>
-              Budget
+            <NavLink to="/documents" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>
+              Documents
             </NavLink>
             <NavLink to="/impact" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>
               Impact
@@ -34,7 +34,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/application" element={<Application />} />
-            <Route path="/budget" element={<Budget />} />
+            <Route path="/documents" element={<Documents />} />
             <Route path="/impact" element={<Impact />} />
             <Route path="/ai-strategy" element={<AIStrategy />} />
           </Routes>

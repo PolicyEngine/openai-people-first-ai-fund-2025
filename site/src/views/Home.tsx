@@ -9,10 +9,12 @@ function Home() {
       </p>
 
       <div className="info-card" style={{ marginBottom: '2rem' }}>
-        <h3>Fiscal Sponsorship</h3>
+        <h3>Applicant Organization</h3>
         <p>
-          <strong>Applicant:</strong> PSL Foundation (501(c)(3))<br/>
-          <strong>Fiscally Sponsored Project:</strong> PolicyEngine
+          <strong>Organization:</strong> PSL Foundation (501(c)(3))<br/>
+          <strong>Primary Project:</strong> PolicyEngine (fiscally sponsored)<br/>
+          <strong>Note:</strong> PolicyEngine is PSL Foundation's flagship initiative using
+          AI-powered tools to democratize policy analysis
         </p>
       </div>
 
