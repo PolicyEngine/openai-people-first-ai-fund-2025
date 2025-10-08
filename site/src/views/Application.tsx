@@ -179,7 +179,7 @@ function Application() {
         your goals or be used for community benefit.</em>
       </p>
       <div style={{ backgroundColor: 'rgba(100, 108, 255, 0.05)', padding: '1rem', borderRadius: '4px', marginTop: '0.5rem' }}>
-        <p><strong>Draft (234 words):</strong></p>
+        <p><strong>Draft (274 words):</strong></p>
         <p>
           AI is fundamental to how PSL Foundation—through PolicyEngine—advances accessible policy understanding.
           We're actively deploying AI in three ways:
