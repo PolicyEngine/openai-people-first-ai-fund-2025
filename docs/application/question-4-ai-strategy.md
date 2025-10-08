@@ -18,10 +18,12 @@ AI is fundamental to how PSL Foundation—through PolicyEngine—advances access
 
 **Public Tools**: We've deployed AI-powered calculation explanations (policyengine.org/us/ai) that make results transparent. When PolicyEngine calculates someone's SNAP benefit at $322/month, AI explains the steps: maximum allotment, deductions for shelter/earnings/childcare, expected contribution. This works flexibly across all programs without hardcoding.
 
-Our vision extends this: refining ML datasets to county and city levels for hyper-local benefit access targeting, enabling natural language policy questions, conducting research on claiming patterns. AI could help caseworkers understand unfamiliar program interactions and identify eligible individuals.
+We're expanding AI integration further: we're experimenting with MCP servers to make benefit calculations available within AI assistants, enabling personalized eligibility insights. Inspired by ChatGPT's app integrations, we envision delivering benefit guidance natively within AI interfaces where people already seek help—meeting vulnerable populations where they are rather than requiring them to find us.
+
+Our broader vision: refining ML datasets to county and city levels for hyper-local targeting, enabling natural language policy questions, conducting research on claiming patterns to guide outreach.
 
 The challenge is maintaining accuracy alongside accessibility—AI explanations must match our microsimulation engine's verified calculations. This unrestricted support would accelerate our AI capabilities while preserving the transparency and accuracy that vulnerable communities deserve.
 
 ---
 
-**Word Count**: 234 words ✓
+**Word Count**: 274 words ✓

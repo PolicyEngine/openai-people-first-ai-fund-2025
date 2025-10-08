@@ -8,7 +8,7 @@ What has been the impact of your work over the past 12 months? Please include ei
 
 ## Draft Response
 
-In the past 12 months, PolicyEngine's API calculations reached over 100,000 Americans through partner organizations including MyFriendBen, Benefit Navigator, Mirza, and Student Basic Needs Coalition across Colorado, California, North Carolina, and expanding jurisdictions. Major foundations (Gates, Pritzker, Hilton) support this ecosystem.
+In the past 12 months, PolicyEngine's API calculations reached over 100,000 Americans through partner organizations including MyFriendBen, Benefit Navigator, Mirza, and Student Basic Needs Coalition across Colorado, California, North Carolina, and expanding jurisdictions—providing accurate benefit eligibility information to people who previously lacked access to these calculations (source: [NEEDS SOURCE - partner API usage data? internal tracking?]).
 
 Our comprehensive coverage distinguishes us: we calculate individual tax programs including credits federally and in all 50 states, validated against NBER's TAXSIM (with MOU to replace it) and Atlanta Fed's Policy Rules Database. We cover SNAP, Medicaid, healthcare subsidies, nutrition assistance, and disability benefits nationwide, plus cash welfare, childcare subsidies, energy assistance, housing vouchers, and state supplements in deployed jurisdictions. Partners can screen clients for dozens of programs simultaneously with to-the-dollar accuracy.
 

@@ -16,7 +16,7 @@ This especially matters for benefit cliffs: when earning more triggers benefit l
 
 Our reach demonstrates urgent demand: 100,000+ Americans served in the past year, with new Massachusetts and Illinois deployments and upcoming launches in Texas, NYC, and DC. All development happens openly on GitHub, backed by NSF, Arnold Ventures, and NEO Philanthropy.
 
-Unrestricted funding supports critical operational needs: expanding engineering to scale API infrastructure for growing demand, enhancing AI capabilities to better explain policy mechanics, maintaining calculation accuracy as rules change, and supporting partner success to ensure effective deployment.
+Unrestricted funding will advance our AI work specifically: expanding ML datasets to additional localities, integrating PolicyEngine into AI assistants through MCP server protocols for personalized benefit guidance, enhancing AI-powered explanations for additional programs, and scaling our team's use of AI agents to maintain accuracy as policies change nationwide.
 
 Because PolicyEngine powers the benefit access ecosystem, strengthening our foundation multiplies impact across every partner serving vulnerable communities.
 

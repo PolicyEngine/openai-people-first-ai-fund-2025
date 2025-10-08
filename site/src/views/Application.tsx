@@ -113,9 +113,10 @@ function Application() {
           GitHub, backed by NSF, Arnold Ventures, and NEO Philanthropy.
         </p>
         <p>
-          Unrestricted funding supports critical operational needs: expanding engineering to scale API infrastructure
-          for growing demand, enhancing AI capabilities to better explain policy mechanics, maintaining calculation
-          accuracy as rules change, and supporting partner success to ensure effective deployment.
+          Unrestricted funding will advance our AI work specifically: expanding ML datasets to additional localities,
+          integrating PolicyEngine into AI assistants through MCP server protocols for personalized benefit guidance,
+          enhancing AI-powered explanations for additional programs, and scaling our team's use of AI agents to maintain
+          accuracy as policies change nationwide.
         </p>
         <p>
           Because PolicyEngine powers the benefit access ecosystem, strengthening our foundation multiplies impact
@@ -134,8 +135,8 @@ function Application() {
         <p>
           In the past 12 months, PolicyEngine's API calculations reached over 100,000 Americans through partner
           organizations including MyFriendBen, Benefit Navigator, Mirza, and Student Basic Needs Coalition across
-          Colorado, California, North Carolina, and expanding jurisdictions. Major foundations (Gates, Pritzker,
-          Hilton) support this ecosystem.
+          Colorado, California, North Carolina, and expanding jurisdictions—providing accurate benefit eligibility
+          information to people who previously lacked access to these calculations (source: [NEEDS SOURCE]).
         </p>
         <p>
           Our comprehensive coverage distinguishes us: we calculate individual tax programs including credits
@@ -205,9 +206,14 @@ function Application() {
           This works flexibly across all programs without hardcoding.
         </p>
         <p>
-          Our vision extends this: refining ML datasets to county and city levels for hyper-local benefit access
-          targeting, enabling natural language policy questions, conducting research on claiming patterns. AI could
-          help caseworkers understand unfamiliar program interactions and identify eligible individuals.
+          We're expanding AI integration further: we're experimenting with MCP servers to make benefit calculations
+          available within AI assistants, enabling personalized eligibility insights. Inspired by ChatGPT's app
+          integrations, we envision delivering benefit guidance natively within AI interfaces where people already
+          seek help—meeting vulnerable populations where they are rather than requiring them to find us.
+        </p>
+        <p>
+          Our broader vision: refining ML datasets to county and city levels for hyper-local targeting, enabling
+          natural language policy questions, conducting research on claiming patterns to guide outreach.
         </p>
         <p>
           The challenge is maintaining accuracy alongside accessibility—AI explanations must match our microsimulation
