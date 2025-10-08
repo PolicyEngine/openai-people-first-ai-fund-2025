@@ -184,7 +184,7 @@ function Application() {
           We're actively deploying AI in three ways:
         </p>
         <p>
-          <strong>Development Process:</strong> Our entire engineering team uses AI coding agents daily. When
+          <strong>Development Process:</strong> Our entire team uses AI coding agents daily. When
           California updates SNAP rules, we use AI to research policy changes, generate test cases, translate
           legislative language into Python code, and improve our API architecture. This accelerates keeping pace
           with constantly changing benefit rules across 50 states plus federal programs.
