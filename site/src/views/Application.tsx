@@ -182,7 +182,7 @@ function Application() {
         <p><strong>Draft (234 words):</strong></p>
         <p>
           AI is fundamental to how PSL Foundation—through PolicyEngine—advances accessible policy understanding.
-          We're actively deploying AI in two complementary ways:
+          We're actively deploying AI in three ways:
         </p>
         <p>
           <strong>Development Process:</strong> Our entire engineering team uses AI coding agents daily. When
