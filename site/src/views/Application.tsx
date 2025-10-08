@@ -192,15 +192,14 @@ function Application() {
           states plus federal programs—a computational challenge that would overwhelm traditional development approaches.
         </p>
         <p>
-          <strong>In Our Public Tools:</strong> We've deployed AI-powered tools (
+          <strong>In Our Public Tools:</strong> We've deployed AI-powered calculation explanations (
           <a href="https://policyengine.org/us/ai" target="_blank" rel="noopener noreferrer">
             policyengine.org/us/ai
-          </a>) including household-specific policy explanations (
-          <a href="https://policyengine.org/us/research/us-household-ai" target="_blank" rel="noopener noreferrer">
-            policyengine.org/us/research/us-household-ai
-          </a>) that translate complex eligibility rules into natural language. When someone asks "Why don't I
-          qualify for SNAP?" or "How will this job offer affect my benefits?", AI helps explain the underlying
-          policy mechanics—transforming opaque bureaucratic rules into understandable guidance.
+          </a>) that make our results transparent and understandable. When PolicyEngine calculates someone's SNAP
+          benefit at $322/month, AI explains the intermediate steps: the maximum allotment for their household size,
+          deductions from countable income due to shelter costs, earnings, childcare expenses, the expected contribution,
+          and how these combine to reach that figure. This AI-generated transparency works across any program and
+          household in our system—no hardcoding required.
         </p>
         <p>
           Our vision extends this further: AI can demystify benefit cliffs by explaining in plain language how
