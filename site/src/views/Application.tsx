@@ -56,13 +56,13 @@ function Application() {
           QuantEcon, and PolicyEngine.
         </p>
         <p>
-          PolicyEngine, our flagship project, builds AI-powered tools providing to-the-dollar benefit
-          calculations and tax policy analysis. Our API calculates eligibility and amounts for dozens of
-          programs: individual tax credits federally and in all states (validated against NBER's TAXSIM
-          tool via MOU to eventually replace it, and against Atlanta Fed's Policy Rules Database), plus
-          SNAP, Medicaid, CHIP, ACA subsidies, WIC, and SSI nationwide, with cash welfare, childcare subsidies,
-          energy assistance, housing vouchers, healthcare subsidies, and other state programs in deployed
-          jurisdictions.
+          PolicyEngine, our flagship project, builds open-source tools providing to-the-dollar benefit
+          calculations and tax policy analysis, using AI to make complex policies accessible. Our API calculates
+          eligibility and amounts for dozens of programs: individual tax credits federally and in all states
+          (validated against NBER's TAXSIM tool via MOU to eventually replace it, and against Atlanta Fed's
+          Policy Rules Database), plus SNAP, Medicaid, CHIP, ACA subsidies, WIC, and SSI nationwide, with cash
+          welfare, childcare subsidies, energy assistance, housing vouchers, healthcare subsidies, and other
+          state programs in deployed jurisdictions.
         </p>
         <p>
           This infrastructure powers partner organizations—MyFriendBen, Benefit Navigator, Mirza, Student
@@ -95,13 +95,12 @@ function Application() {
           and local rules that even caseworkers struggle to apply consistently.
         </p>
         <p>
-          PolicyEngine addresses this through AI-powered APIs providing to-the-dollar calculations across dozens
-          of programs: tax credits federally and in all states (validated against NBER's TAXSIM and Atlanta Fed's
-          Policy Rules Database), plus SNAP, Medicaid, healthcare subsidies, nutrition assistance, and disability
-          benefits nationwide, with cash welfare, childcare subsidies, energy assistance, and housing vouchers in
-          deployed states. When someone uses MyFriendBen, Benefit Navigator, or Student Basic Needs Coalition,
-          PolicyEngine's calculations—integrated directly into their workflows—help discover economic supports
-          they're entitled to.
+          PolicyEngine addresses this through APIs providing to-the-dollar calculations across dozens of programs:
+          tax credits federally and in all states (validated against NBER's TAXSIM and Atlanta Fed's Policy Rules
+          Database), plus SNAP, Medicaid, healthcare subsidies, nutrition assistance, and disability benefits
+          nationwide, with cash welfare, childcare subsidies, energy assistance, and housing vouchers in deployed
+          states. When someone uses MyFriendBen, Benefit Navigator, or Student Basic Needs Coalition, PolicyEngine's
+          calculations—integrated directly into their workflows—help discover economic supports they're entitled to.
         </p>
         <p>
           This especially matters for benefit cliffs: when earning more triggers benefit losses exceeding wage

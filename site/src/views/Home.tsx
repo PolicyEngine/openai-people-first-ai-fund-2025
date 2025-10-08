@@ -13,8 +13,8 @@ function Home() {
         <p>
           <strong>Organization:</strong> PSL Foundation (501(c)(3))<br/>
           <strong>Primary Project:</strong> PolicyEngine<br/>
-          <strong>Note:</strong> PolicyEngine is PSL Foundation's flagship project using
-          AI-powered tools to provide to-the-dollar benefit calculations and democratize policy analysis
+          <strong>Note:</strong> PolicyEngine is PSL Foundation's flagship project providing
+          to-the-dollar benefit calculations and using AI to democratize policy analysis
         </p>
       </div>
 

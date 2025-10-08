@@ -16,7 +16,7 @@ Beyond individual assistance, PolicyEngine serves policy analysis. When Colorado
 
 2025 brought Massachusetts and Illinois launches, with Texas, NYC, and DC deployments pending for early 2026. Our 100% open-source development on GitHub, backed by NSF, Arnold Ventures, and NEO Philanthropy, ensures transparency and reproducibility.
 
-Technical advances enabled this scale: we enhanced our AI-powered policy explanations (policyengine.org/us/ai) helping users understand not just what benefits they qualify for, but why. Natural language explanations transform opaque eligibility rules into accessible guidance, supporting both benefit access and civic understanding.
+Technical advances enabled this scale: we enhanced our policy explanations using AI (policyengine.org/us/ai) to help users understand not just what benefits they qualify for, but why. Natural language explanations transform opaque eligibility rules into accessible guidance, supporting both benefit access and civic understanding.
 
 ---
 
