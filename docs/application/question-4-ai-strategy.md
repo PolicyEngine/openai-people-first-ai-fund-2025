@@ -12,7 +12,7 @@ How is your organization currently thinking about AI in relation to your mission
 
 AI is fundamental to how PSL Foundation—through PolicyEngine—advances accessible policy understanding. We're actively deploying AI in three ways:
 
-**Development Process**: Our entire engineering team uses AI coding agents daily. When California updates SNAP rules, we use AI to research policy changes, generate test cases, translate legislative language into Python code, and improve our API architecture. This accelerates keeping pace with constantly changing benefit rules across 50 states plus federal programs.
+**Development Process**: Our entire team uses AI coding agents daily. When California updates SNAP rules, we use AI to research policy changes, generate test cases, translate legislative language into Python code, and improve our API architecture. This accelerates keeping pace with constantly changing benefit rules across 50 states plus federal programs.
 
 **Data Infrastructure**: We use machine learning to build representative household datasets for each state and congressional district, integrating and calibrating dozens of disparate data sources. These datasets enable policy simulation and local-area benefit eligibility estimation with unprecedented precision—helping communities understand how many residents may be eligible for and claiming benefits in their area.
 
