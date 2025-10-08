@@ -8,16 +8,16 @@ What has been the impact of your work over the past 12 months? Please include ei
 
 ## Draft Response
 
-In the past 12 months, PolicyEngine's API calculations reached over 100,000 Americans across Colorado, California, and North Carolina through our partner organizations. This represents a measurable 400% increase from the previous year, driven by expanded partnerships with major foundation-backed organizations including MyFriendBen (serving Colorado), Benefit Navigator (Gates Foundation partnership across seven markets), Mirza (Pritzker Foundation support), and Student Basic Needs Coalition (Hilton Foundation support).
+In the past 12 months, PolicyEngine's API calculations reached over 100,000 Americans through partner organizations including MyFriendBen, Benefit Navigator, Mirza, and Student Basic Needs Coalition across Colorado, California, North Carolina, and expanding jurisdictions. Major foundations (Gates, Pritzker, Hilton) support this ecosystem.
 
-Our impact extends beyond reach to policy influence. When Colorado policymakers considered reforms to address benefit cliffs, PolicyEngine's microsimulation capabilities modeled how policy changes would affect families at different income levels—providing the evidence base for legislative discussions. Our tools enabled stakeholders across the political spectrum to understand trade-offs and distributional impacts, demonstrating how neutral policy simulation infrastructure serves democratic deliberation.
+Our comprehensive coverage distinguishes us: we calculate individual tax programs including credits federally and in all 50 states, validated against NBER's TAXSIM (with MOU to replace it) and Atlanta Fed's Policy Rules Database. We cover SNAP, Medicaid, CHIP, ACA subsidies, WIC, and SSI nationwide, plus TANF, CCDF, LIHEAP, and state supplements in deployed jurisdictions. Partners can screen clients for dozens of programs simultaneously with to-the-dollar accuracy.
 
-Partnership growth demonstrates our value: in 2025 alone, we launched integrations in Massachusetts and Illinois, with confirmed deployments pending in Texas, New York City, and Washington DC for early 2026. Each new jurisdiction multiplies our reach exponentially—Massachusetts alone adds 7 million residents who can access more accurate benefit calculations through state and nonprofit service providers.
+Beyond individual assistance, PolicyEngine serves policy analysis. When Colorado policymakers considered benefit cliff reforms, our microsimulation modeled impacts across income levels—enabling stakeholders across the political spectrum to understand trade-offs. This neutral infrastructure serves democratic deliberation.
 
-Technical infrastructure improvements enabled this scale: we expanded our benefit coverage to include additional state-level programs, improved calculation accuracy through enhanced tax and benefit modeling, and strengthened our API performance to handle growing partner traffic. Our AI-powered policy explanation tools (https://policyengine.org/us/research/us-household-ai) help users understand not just what benefits they qualify for, but why—demystifying complex eligibility rules through natural language explanations.
+2025 brought Massachusetts and Illinois launches, with Texas, NYC, and DC deployments pending for early 2026. Our 100% open-source development on GitHub, backed by NSF, Arnold Ventures, and NEO Philanthropy, ensures transparency and reproducibility.
 
-This foundation positions 2026 for exponential growth as additional partners and jurisdictions come online.
+Technical advances enabled this scale: we enhanced our AI-powered policy explanations (policyengine.org/us/ai) helping users understand not just what benefits they qualify for, but why. Natural language explanations transform opaque eligibility rules into accessible guidance, supporting both benefit access and civic understanding.
 
 ---
 
-**Word Count**: 279 words ✓
+**Word Count**: 234 words ✓

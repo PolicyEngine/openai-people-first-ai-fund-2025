@@ -49,34 +49,34 @@ function Application() {
       <h3>Question 1: Organization Overview and Mission (Max 250 words)</h3>
       <p><em>Please give an overview of your organization including your mission statement.</em></p>
       <div style={{ backgroundColor: 'rgba(100, 108, 255, 0.05)', padding: '1rem', borderRadius: '4px', marginTop: '0.5rem' }}>
-        <p><strong>Draft (223 words):</strong></p>
+        <p><strong>Draft (203 words):</strong></p>
         <p>
-          PSL Foundation's mission is to advance accessible and reproducible computing in the analysis
-          of public policy. We serve as fiscal sponsor and steward for three major open-source initiatives:
-          the Policy Simulation Library, QuantEcon, and PolicyEngine.
+          PSL Foundation's mission is to advance accessible and reproducible computing in the analysis of
+          public policy. We steward three major open-source initiatives: the Policy Simulation Library,
+          QuantEcon, and PolicyEngine.
         </p>
         <p>
-          PolicyEngine, our flagship project focused on economic opportunity, builds AI-powered tools that
-          democratize access to benefit programs and tax policy analysis. Through PolicyEngine's API, we
-          provide free, accurate calculations for SNAP, Medicaid, tax credits, and dozens of other programs—helping
-          Americans understand their eligibility and navigate benefit cliffs as they advance economically.
+          PolicyEngine, our flagship project, builds AI-powered tools providing to-the-dollar benefit
+          calculations and tax policy analysis. Our API calculates eligibility and amounts for dozens of
+          programs: individual tax credits federally and in all states (validated against NBER's TAXSIM
+          tool via MOU to eventually replace it, and against Atlanta Fed's Policy Rules Database), plus
+          SNAP, Medicaid, CHIP, ACA subsidies, WIC, and SSI nationwide, with TANF, CCDF, LIHEAP, and other
+          state programs in deployed jurisdictions.
         </p>
         <p>
-          Our partner ecosystem includes MyFriendBen, Benefit Navigator (Gates Foundation-supported), Mirza
-          (Pritzker Foundation-supported), and Student Basic Needs Coalition (Hilton Foundation-supported).
-          Through these partnerships, PolicyEngine reached over 100,000 Americans in the past year across
-          Colorado, California, and North Carolina. Recent launches in Massachusetts and Illinois, with upcoming
-          deployments in Texas, NYC, and DC, position us for exponential growth in 2026.
+          This infrastructure powers partner organizations—MyFriendBen, Benefit Navigator, Mirza, Student
+          Basic Needs Coalition—serving over 100,000 Americans in the past year. Major foundations (Gates,
+          Pritzker, Hilton) support this ecosystem. Recent Massachusetts and Illinois launches, with upcoming
+          Texas, NYC, and DC deployments, expand reach in 2026.
         </p>
         <p>
-          PSL Foundation and its projects take no policy positions. We build neutral, transparent tools that
-          policymakers, researchers, and service providers across all perspectives use to understand policy
-          mechanics and serve their communities.
+          All development happens openly on GitHub. NSF, Arnold Ventures, and NEO Philanthropy provide our
+          core institutional support.
         </p>
         <p>
-          AI is central to our work: our team uses coding agents daily for policy research, test case development,
-          and software architecture, while our public-facing tools employ AI to demystify complex safety net
-          policies and make them accessible to everyone.
+          PSL Foundation takes no policy positions—we build neutral tools serving policymakers and service
+          providers across all perspectives. AI powers both our development (coding agents for policy research
+          and implementation) and our public tools (demystifying complex safety net policies).
         </p>
       </div>
 
@@ -86,36 +86,35 @@ function Application() {
         How are you meeting that need? How will this new funding be used to support your work?</em>
       </p>
       <div style={{ backgroundColor: 'rgba(100, 108, 255, 0.05)', padding: '1rem', borderRadius: '4px', marginTop: '0.5rem' }}>
-        <p><strong>Draft (274 words):</strong></p>
+        <p><strong>Draft (268 words):</strong></p>
         <p>
-          Millions of Americans leave critical benefits unclaimed because safety net policies are bewilderingly
-          complex. A Colorado parent might not realize they qualify for SNAP, or a student in California might
-          miss healthcare subsidies—not because programs don't exist, but because understanding eligibility
-          requires navigating overlapping federal, state, and local rules that even caseworkers struggle to
-          apply consistently.
+          Millions of Americans leave benefits unclaimed because safety net policies are bewilderingly complex.
+          A parent might not realize they qualify for SNAP, or a student might miss healthcare subsidies—not
+          because programs don't exist, but because eligibility requires navigating overlapping federal, state,
+          and local rules that even caseworkers struggle to apply consistently.
         </p>
         <p>
-          PolicyEngine addresses this through AI-powered APIs that instantly calculate eligibility and benefit
-          amounts across programs. Our tools integrate directly into service providers' workflows: when someone
-          uses MyFriendBen in Colorado, Benefit Navigator in seven markets, or campus resources through Student
-          Basic Needs Coalition, PolicyEngine's calculations help them discover and access economic supports
-          they're entitled to.
+          PolicyEngine addresses this through AI-powered APIs providing to-the-dollar calculations across dozens
+          of programs: tax credits federally and in all states (validated against NBER's TAXSIM and Atlanta Fed's
+          Policy Rules Database), plus SNAP, Medicaid, CHIP, ACA subsidies, WIC, SSI nationwide, and state-specific
+          programs like TANF and CCDF. When someone uses MyFriendBen, Benefit Navigator, or Student Basic Needs
+          Coalition, PolicyEngine's calculations—integrated directly into their workflows—help discover economic
+          supports they're entitled to.
         </p>
         <p>
-          This matters especially for benefit cliffs—when earning more money triggers benefit losses that exceed
-          wage gains. PolicyEngine helps families model how career advancement affects their total economic picture,
+          This especially matters for benefit cliffs: when earning more triggers benefit losses exceeding wage
+          gains. PolicyEngine helps families model how career advancement affects their total economic picture,
           enabling informed decisions about education, employment, and upward mobility.
         </p>
         <p>
-          Our reach demonstrates urgent demand: 100,000+ Americans served in the past year, with major foundation
-          support (Gates, Pritzker, Hilton) backing our partners. New state deployments in Massachusetts, Illinois,
-          Texas, NYC, and DC will exponentially expand this impact in 2026.
+          Our reach demonstrates urgent demand: 100,000+ Americans served in the past year, with new Massachusetts
+          and Illinois deployments and upcoming launches in Texas, NYC, and DC. All development happens openly on
+          GitHub, backed by NSF, Arnold Ventures, and NEO Philanthropy.
         </p>
         <p>
-          Unrestricted funding will support critical needs across our operations: expanding our engineering team to
-          scale our API infrastructure for growing demand, enhancing AI capabilities to better explain policy mechanics,
-          improving calculation accuracy as rules change, and supporting our partner success team that ensures service
-          providers can effectively deploy our tools.
+          Unrestricted funding supports critical operational needs: expanding engineering to scale API infrastructure
+          for growing demand, enhancing AI capabilities to better explain policy mechanics, maintaining calculation
+          accuracy as rules change, and supporting partner success to ensure effective deployment.
         </p>
         <p>
           Because PolicyEngine powers the benefit access ecosystem, strengthening our foundation multiplies impact
@@ -130,36 +129,38 @@ function Application() {
         source), or (b) one concrete story that illustrates a change.</em>
       </p>
       <div style={{ backgroundColor: 'rgba(100, 108, 255, 0.05)', padding: '1rem', borderRadius: '4px', marginTop: '0.5rem' }}>
-        <p><strong>Draft (279 words):</strong></p>
+        <p><strong>Draft (234 words):</strong></p>
         <p>
-          In the past 12 months, PolicyEngine's API calculations reached over 100,000 Americans across Colorado,
-          California, and North Carolina through our partner organizations. This represents a measurable 400%
-          increase from the previous year, driven by expanded partnerships with major foundation-backed organizations
-          including MyFriendBen (serving Colorado), Benefit Navigator (Gates Foundation partnership across seven
-          markets), Mirza (Pritzker Foundation support), and Student Basic Needs Coalition (Hilton Foundation support).
+          In the past 12 months, PolicyEngine's API calculations reached over 100,000 Americans through partner
+          organizations including MyFriendBen, Benefit Navigator, Mirza, and Student Basic Needs Coalition across
+          Colorado, California, North Carolina, and expanding jurisdictions. Major foundations (Gates, Pritzker,
+          Hilton) support this ecosystem.
         </p>
         <p>
-          Our impact extends beyond reach to policy influence. When Colorado policymakers considered reforms to
-          address benefit cliffs, PolicyEngine's microsimulation capabilities modeled how policy changes would
-          affect families at different income levels—providing the evidence base for legislative discussions. Our
-          tools enabled stakeholders across the political spectrum to understand trade-offs and distributional
-          impacts, demonstrating how neutral policy simulation infrastructure serves democratic deliberation.
+          Our comprehensive coverage distinguishes us: we calculate individual tax programs including credits
+          federally and in all 50 states, validated against NBER's TAXSIM (with MOU to replace it) and Atlanta
+          Fed's Policy Rules Database. We cover SNAP, Medicaid, CHIP, ACA subsidies, WIC, and SSI nationwide,
+          plus TANF, CCDF, LIHEAP, and state supplements in deployed jurisdictions. Partners can screen clients
+          for dozens of programs simultaneously with to-the-dollar accuracy.
         </p>
         <p>
-          Partnership growth demonstrates our value: in 2025 alone, we launched integrations in Massachusetts and
-          Illinois, with confirmed deployments pending in Texas, New York City, and Washington DC for early 2026.
-          Each new jurisdiction multiplies our reach exponentially—Massachusetts alone adds 7 million residents who
-          can access more accurate benefit calculations through state and nonprofit service providers.
+          Beyond individual assistance, PolicyEngine serves policy analysis. When Colorado policymakers considered
+          benefit cliff reforms, our microsimulation modeled impacts across income levels—enabling stakeholders
+          across the political spectrum to understand trade-offs. This neutral infrastructure serves democratic
+          deliberation.
         </p>
         <p>
-          Technical infrastructure improvements enabled this scale: we expanded our benefit coverage to include
-          additional state-level programs, improved calculation accuracy through enhanced tax and benefit modeling,
-          and strengthened our API performance to handle growing partner traffic. Our AI-powered policy explanation
-          tools help users understand not just what benefits they qualify for, but why—demystifying complex eligibility
-          rules through natural language explanations.
+          2025 brought Massachusetts and Illinois launches, with Texas, NYC, and DC deployments pending for early
+          2026. Our 100% open-source development on GitHub, backed by NSF, Arnold Ventures, and NEO Philanthropy,
+          ensures transparency and reproducibility.
         </p>
         <p>
-          This foundation positions 2026 for exponential growth as additional partners and jurisdictions come online.
+          Technical advances enabled this scale: we enhanced our AI-powered policy explanations (
+          <a href="https://policyengine.org/us/ai" target="_blank" rel="noopener noreferrer">
+            policyengine.org/us/ai
+          </a>) helping users understand not just what benefits they qualify for, but why. Natural language
+          explanations transform opaque eligibility rules into accessible guidance, supporting both benefit access
+          and civic understanding.
         </p>
       </div>
 

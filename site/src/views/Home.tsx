@@ -12,9 +12,9 @@ function Home() {
         <h3>Applicant Organization</h3>
         <p>
           <strong>Organization:</strong> PSL Foundation (501(c)(3))<br/>
-          <strong>Primary Project:</strong> PolicyEngine (fiscally sponsored)<br/>
-          <strong>Note:</strong> PolicyEngine is PSL Foundation's flagship initiative using
-          AI-powered tools to democratize policy analysis
+          <strong>Primary Project:</strong> PolicyEngine<br/>
+          <strong>Note:</strong> PolicyEngine is PSL Foundation's flagship project using
+          AI-powered tools to provide to-the-dollar benefit calculations and democratize policy analysis
         </p>
       </div>
 
