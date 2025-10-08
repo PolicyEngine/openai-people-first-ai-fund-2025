@@ -8,10 +8,10 @@
     <script>
       // GitHub Pages SPA redirect handler
       (function() {
-        var redirect = sessionStorage.redirect;
-        delete sessionStorage.redirect;
-        if (redirect && redirect != location.pathname) {
-          history.replaceState(null, null, redirect);
+        var query = window.location.search;
+        if (query && query.indexOf('?p=') === 0) {
+          var path = query.slice(3); // Remove '?p='
+          window.history.replaceState(null, null, '/openai-people-first-ai-fund-2025' + path);
         }
       })();
     </script>

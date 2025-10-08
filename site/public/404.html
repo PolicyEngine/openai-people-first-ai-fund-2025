@@ -5,9 +5,9 @@
     <title>Redirecting...</title>
     <script>
       // GitHub Pages SPA redirect hack
-      // Store the path and redirect to index.html
-      sessionStorage.redirect = location.pathname;
-      location.replace('/openai-people-first-ai-fund-2025/');
+      // Convert path to query parameter for index.html to handle
+      var path = location.pathname.replace('/openai-people-first-ai-fund-2025', '');
+      location.replace('/openai-people-first-ai-fund-2025/?p=' + path);
     </script>
   </head>
   <body>
