@@ -109,6 +109,30 @@ function Home() {
       <p>
         <strong>Email:</strong> peoplefirstfund@openai.com
       </p>
+
+      <h2>Links</h2>
+      <ul>
+        <li>
+          <a href="https://openai.com/index/people-first-ai-fund/" target="_blank" rel="noopener noreferrer">
+            OpenAI People-First AI Fund Announcement
+          </a>
+        </li>
+        <li>
+          <a href="https://peoplefirst.fluxx.io/" target="_blank" rel="noopener noreferrer">
+            Application Portal (Fluxx)
+          </a>
+        </li>
+        <li>
+          <a href="https://policyengine.org/us/ai" target="_blank" rel="noopener noreferrer">
+            PolicyEngine AI Tools
+          </a>
+        </li>
+        <li>
+          <a href="https://policyengine.org/us/research/us-household-ai" target="_blank" rel="noopener noreferrer">
+            PolicyEngine Household AI
+          </a>
+        </li>
+      </ul>
     </div>
   )
 }
