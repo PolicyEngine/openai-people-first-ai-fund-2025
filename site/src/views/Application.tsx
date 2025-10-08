@@ -179,43 +179,41 @@ function Application() {
         your goals or be used for community benefit.</em>
       </p>
       <div style={{ backgroundColor: 'rgba(100, 108, 255, 0.05)', padding: '1rem', borderRadius: '4px', marginTop: '0.5rem' }}>
-        <p><strong>Draft (295 words):</strong></p>
+        <p><strong>Draft (234 words):</strong></p>
         <p>
           AI is fundamental to how PSL Foundation—through PolicyEngine—advances accessible policy understanding.
           We're actively deploying AI in two complementary ways:
         </p>
         <p>
-          <strong>In Our Development Process:</strong> Our entire engineering team uses AI coding agents daily.
-          When California updates SNAP rules, we use AI to research policy changes, generate test cases ensuring
-          accurate implementation, translate legislative language into Python code, and improve our API architecture.
-          This dramatically accelerates our ability to keep pace with constantly changing benefit rules across 50
-          states plus federal programs—a computational challenge that would overwhelm traditional development approaches.
+          <strong>Development Process:</strong> Our entire engineering team uses AI coding agents daily. When
+          California updates SNAP rules, we use AI to research policy changes, generate test cases, translate
+          legislative language into Python code, and improve our API architecture. This accelerates keeping pace
+          with constantly changing benefit rules across 50 states plus federal programs.
         </p>
         <p>
-          <strong>In Our Public Tools:</strong> We've deployed AI-powered calculation explanations (
+          <strong>Data Infrastructure:</strong> We use machine learning to build representative household datasets
+          for each state and congressional district, integrating and calibrating dozens of disparate data sources.
+          These datasets enable policy simulation and local-area benefit eligibility estimation with unprecedented
+          precision—helping communities understand how many residents may be eligible for and claiming benefits in
+          their area.
+        </p>
+        <p>
+          <strong>Public Tools:</strong> We've deployed AI-powered calculation explanations (
           <a href="https://policyengine.org/us/ai" target="_blank" rel="noopener noreferrer">
             policyengine.org/us/ai
-          </a>) that make our results transparent and understandable. When PolicyEngine calculates someone's SNAP
-          benefit at $322/month, AI explains the intermediate steps: the maximum allotment for their household size,
-          deductions from countable income due to shelter costs, earnings, childcare expenses, the expected contribution,
-          and how these combine to reach that figure. This AI-generated transparency works across any program and
-          household in our system—no hardcoding required.
+          </a>) that make results transparent. When PolicyEngine calculates someone's SNAP benefit at $322/month,
+          AI explains the steps: maximum allotment, deductions for shelter/earnings/childcare, expected contribution.
+          This works flexibly across all programs without hardcoding.
         </p>
         <p>
-          Our vision extends this further: AI can demystify benefit cliffs by explaining in plain language how
-          earning $1,000 more affects your total economic situation across multiple programs. It can help caseworkers
-          understand policy interactions they haven't encountered before. It can identify eligible individuals who
-          don't know to ask.
+          Our vision extends this: refining ML datasets to county and city levels for hyper-local benefit access
+          targeting, enabling natural language policy questions, conducting research on claiming patterns. AI could
+          help caseworkers understand unfamiliar program interactions and identify eligible individuals.
         </p>
         <p>
-          The challenge is doing this responsibly—AI must provide accurate, verifiable calculations (which our
-          microsimulation engine guarantees) while making explanations accessible. We see enormous potential in AI's
-          ability to make safety net policies understandable to everyone who needs them, but only if the underlying
-          calculations remain transparent and reproducible—PSL Foundation's core mission.
-        </p>
-        <p>
-          This unrestricted support would accelerate our AI capabilities while maintaining the transparency and
-          accuracy that vulnerable communities deserve.
+          The challenge is maintaining accuracy alongside accessibility—AI explanations must match our microsimulation
+          engine's verified calculations. This unrestricted support would accelerate our AI capabilities while
+          preserving the transparency and accuracy that vulnerable communities deserve.
         </p>
       </div>
     </div>
