@@ -1,7 +1,7 @@
 # Question 4: AI Strategy and Vision
 
 **Word Limit**: Maximum 300 words
-**Current Count**: [TBD]
+**Current Count**: 274 words
 
 ## Prompt
 How is your organization currently thinking about AI in relation to your mission and community impact?

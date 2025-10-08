@@ -1,7 +1,7 @@
 # Question 2: Community Need and Use of Funding
 
 **Word Limit**: Maximum 300 words
-**Current Count**: [TBD]
+**Current Count**: 269 words
 
 ## Prompt
 What is the urgent community need that your organization seeks to address? How are you meeting that need? How will this new funding be used to support your work?
@@ -22,4 +22,4 @@ Because PolicyEngine powers the benefit access ecosystem, strengthening our foun
 
 ---
 
-**Word Count**: 268 words ✓
+**Word Count**: 269 words ✓

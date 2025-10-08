@@ -1,7 +1,7 @@
 # Question 1: Organization Overview and Mission
 
 **Word Limit**: Maximum 250 words
-**Current Count**: [TBD]
+**Current Count**: 208 words
 
 ## Prompt
 Please give an overview of your organization including your mission statement.
@@ -20,4 +20,4 @@ PSL Foundation takes no policy positions—we build neutral tools serving policy
 
 ---
 
-**Word Count**: 203 words ✓
+**Word Count**: 208 words ✓

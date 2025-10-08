@@ -1,7 +1,7 @@
 # Question 3: Impact Over Past 12 Months
 
 **Word Limit**: Maximum 300 words
-**Current Count**: [TBD]
+**Current Count**: 240 words
 
 ## Prompt
 What has been the impact of your work over the past 12 months? Please include either (a) how many people you directly served and one measurable change (with its source), or (b) one concrete story that illustrates a change.
@@ -20,4 +20,4 @@ Technical advances enabled this scale: we enhanced our policy explanations using
 
 ---
 
-**Word Count**: 234 words ✓
+**Word Count**: 240 words ✓
