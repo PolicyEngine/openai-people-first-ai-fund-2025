@@ -21,6 +21,16 @@ venv/
 build/
 site/dist/
 
+# Next.js
+site/.next/
+site/out/
+site/next-env.d.ts
+*.tsbuildinfo
+
+# Vercel
+.vercel
+
 # Environment
 .env
 .env.local
+.env*.local
