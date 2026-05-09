@@ -14,6 +14,7 @@ const navItems: NavItem[] = [
   { href: '/documents', label: 'Documents' },
   { href: '/impact', label: 'Impact' },
   { href: '/ai-strategy', label: 'AI Strategy' },
+  { href: '/budget', label: 'Budget' },
 ];
 
 export default function Layout({ children }: { children: React.ReactNode }) {
